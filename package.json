@@ -9,14 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gbaranski/quizizz-cheat.git"
+    "url": "git+https://github.com/danooz/quizizz-cheat.git"
   },
-  "author": "gbaranski",
-  "license": "ISC",
+  "author": "danooz",
   "bugs": {
     "url": "https://github.com/gbaranski/quizizz-cheat/issues"
   },
-  "homepage": "https://github.com/gbaranski/quizizz-cheat#readme",
+  "homepage": "https://github.com/danooz/quizizz-cheat#readme",
   "devDependencies": {
     "copy-webpack-plugin": "^7.0.0",
     "javascript-obfuscator": "^2.10.3",
